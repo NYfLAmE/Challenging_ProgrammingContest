@@ -42,6 +42,5 @@ int main()
         lmax = N, rmax = -N, min_ans = -N; // 重置标志，准备下一次case
     }
     
-
     return 0;
 }
